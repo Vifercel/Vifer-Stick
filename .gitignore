@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Build artifacts
+build/
+dist/
+*.spec
+version_info.txt
+
+# Config and user data (only template goes public)
+config.json
+
+# OS files
+Thumbs.db
+.DS_Store
