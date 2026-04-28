@@ -14,7 +14,7 @@ change its opacity, lock it as a click‑through overlay, and more.
 
 ## Running
 - **Windows:** double‑click `Vifer Stick v1.0.pyw` (requires Python 3 and Pillow, pystray).
-- Or download `ViferStick.exe` from the [Releases](#) section – no Python needed.
+- Or download `ViferStick.exe` from the [Releases](https://github.com/Vifercel/Vifer-Stick/releases) section – no Python needed.
 
 All library dependencies are free and open‑source.  
 This project is dedicated to the public domain (The Unlicense).
